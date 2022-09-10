@@ -41,7 +41,7 @@ class Program_11 {
         for (int i = 0; i < emp.length; i++) {
             for (int j = 0; j < emp.length; j++) {
                 if (emp[i].appdate.before(emp[j].appdate)) {
-                    var temp = emp[i];
+                    employee temp = emp[i];
                     emp[i] = emp[j];
                     emp[j] = temp;
                 }
