@@ -29,7 +29,7 @@ class Program_5 {
     public static void main(String[] args) {
         addsum a1 = new addsum();
         a1.add();
-        a1.add(20, 40);
+        a1.add(20, 80);
         a1.add(6.5, 7.4);
     }
 }

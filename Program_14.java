@@ -1,7 +1,7 @@
 // 14. Write a program to handle Null Pointer Exception and use the “finally” method to display a message to
 // the user. 
 
-public class Program_14 {
+ class Program_14 {
     public static void main(String[] args) {
         String s = null;
 
