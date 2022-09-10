@@ -18,7 +18,7 @@ public class Program_20 extends Applet implements ActionListener {
 
     public void actionPerformed(ActionEvent e) {
         s1 = "Full Name: Bam";
-        s2 = "Father Name: Som Mother Name: Kamalamma Age: 45";
+        s2 = "Father Name: Som Mother Name: Sum Age: 45";
         s3 = "Roll No : 431 College Name: Surana College";
         s4 = "Nationality: Indian Contact No: 0000000000";
         s5 = "xyz;
