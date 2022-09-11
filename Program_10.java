@@ -41,7 +41,7 @@ class firstyear {
                 k = i;
             }
         }
-        System.out.println("the best is" + stdnames[k]);
+        System.out.println("the best student is" + stdnames[k]);
     }
 }
 
