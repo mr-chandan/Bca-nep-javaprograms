@@ -1,7 +1,6 @@
 // 24.Write a program to create menu bar and pull-down menus
 
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
+
 import java.awt.*;
 
 public class Program_24 {
@@ -46,12 +45,7 @@ public class Program_24 {
         f.setVisible(true);
         f.setLayout(null);
 
-        f.addWindowListener(new WindowAdapter() {
-            @Override
-            public void windowClosing(WindowEvent e) {
-                f.dispose();
-            }
-        });
+
     }
 
     public static void main(String args[]) {
